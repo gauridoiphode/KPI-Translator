@@ -30,12 +30,7 @@ The KPI Translator tool provides a web interface to:
 
 You can view a live demo of this tool - [https://gauridoiphode.github.io/KPI-Translator/](https://gauridoiphode.github.io/KPI-Translator/)
 
-<p align="center">
-  <video width="700" controls>
-    <source src="https://raw.githubusercontent.com/gauridoiphode/KPI-Translator/main/demo/KPI-Translator-Recording.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+![Demo](demo/demo.gif)
 
 
 ## Installation
