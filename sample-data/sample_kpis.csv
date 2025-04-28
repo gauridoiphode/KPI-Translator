@@ -1,0 +1,31 @@
+Team,Metric_Name,Definition
+Marketing,Engagement Rate,Clicks + opens ÷ total emails sent over past 30 days.
+Sales,Qualified Lead,Any lead with a score >80 OR passed SDR call.
+Product,Activation,User finishes onboarding OR uses 2+ features in week 1.
+Customer Success,Churn Risk,Accounts with >2 support tickets OR NPS < 7.
+Data,Retention,"Returning users after 30 days, excluding email-only logins."
+Finance,Customer Lifetime Value,Revenue per user times estimated tenure (model varies by segment).
+Marketing,Conversion,"Leads from paid campaigns that sign up, trial, or click a CTA."
+Sales,Close Rate,Closed deals ÷ total leads from CRM (includes disqualified ones).
+Product,Feature Adoption,Usage of any newly shipped feature within 14 days.
+Customer Success,NPS,Average score from latest customer survey. Filtered by region.
+Sales,Lead Quality,"Demographic match, website activity score, and AE judgment."
+Marketing,Bounce Rate,Emails not opened OR flagged by filters.
+Product,Time to Value,Average days between signup and first retained session.
+Data,Session Duration,Average session time across all devices (excluding app errors).
+Finance,CAC,Sales + marketing cost ÷ new *qualified* customers (definition varies).
+Marketing,Brand Lift,Uplift in brand recall after campaign exposure (estimated).
+Sales,Pipeline Velocity,Total pipeline value ÷ average deal time to close.
+Customer Success,Engagement Score,"Blend of logins, support usage, webinar attendance."
+Product,Power Users,Users who log in 5+ times per week *and* complete core flows.
+Finance,MRR,Monthly recurring revenue. Adjusted for churn + expansions.
+Legal,Compliance Rate,Percent of users who’ve accepted latest TOS (minus bots).
+Data,Anomaly Rate,Share of sessions with unexpected behavior — criteria vary.
+Sales,Deal Slippage,Deals marked as 'this quarter' but closed later.
+Marketing,Attribution Accuracy,How well we track which channel led to a signup.
+Product,User Satisfaction,Rolling average of post-feature feedback (where available).
+Success,Upsell Potential,CSM-reported likelihood of cross-sell in Q2/Q3.
+Finance,ROI,Gross margin improvement over prior quarter per initiative.
+Marketing,Reach,Social + ad impressions (filtered by platform).
+Customer Success,Escalation Rate,Tickets that needed Tier 2+ intervention.
+Data,Integrity Score,Percentage of records with no missing or invalid fields.
