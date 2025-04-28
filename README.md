@@ -28,7 +28,7 @@ The KPI Translator tool provides a web interface to:
 
 ## Live Demo
 
-You can view a live demo of this tool - [https://your-username.github.io/kpi-translator](https://your-username.github.io/kpi-translator)
+You can view a live demo of this tool - [https://gauridoiphode.github.io/KPI-Translator/](https://gauridoiphode.github.io/KPI-Translator/)
 
 ## Installation
 
